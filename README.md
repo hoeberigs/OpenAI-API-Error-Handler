@@ -1,6 +1,6 @@
 # OpenAI-API-Error-Handler
 This is a simple Python application that calls the OpenAI API and handles timeout, rate limit, and server errors.
-
+April 18th 2023: Updated for ChatGPT 3.5 Turbo model
 
 
 
